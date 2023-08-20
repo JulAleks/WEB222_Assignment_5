@@ -1,6 +1,5 @@
-# WEB222 Assignment 5, first year- Music App
-
-This repository contains my submission for WEB222 Assignment 4, where I've developed a Music App using HTML, CSS, and JavaScript.
+#WEB222 Assignment 5 - Music App
+Welcome to my repository for WEB222 Assignment 5! Here, you will find my submission for the Music App project developed during the second semester of my first year. This assignment involves using HTML, CSS, and JavaScript to create a Music App.
 
 ## Project Description
 

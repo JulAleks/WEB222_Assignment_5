@@ -1,12 +1,13 @@
-## WEB222 Assignment 5 - Music App
-Welcome to my repository for WEB222 Assignment 5! Here, you will find my submission for the Music App project developed during the second semester of my first year. This assignment involves using HTML, CSS, and JavaScript to create a Music App.
+# WEB222 Assignment 5 - Music App Repository
+
+Welcome to my repository for WEB222 Assignment 5! This project was completed during the second semester of my first year at Seneca College. In this assignment, I have utilized HTML, CSS, and JavaScript to create a dynamic Music App.
 
 ## Project Description
 
-The Music App is designed to provide users with an engaging platform to explore and discover music within a specific genre or by their favorite artists. It combines HTML for the structure, CSS for styling, and JavaScript for dynamic functionalities. Users can navigate through artists, explore their songs, and enjoy an interactive music experience.
+The Music App is a user-friendly platform designed to offer a captivating music exploration experience. It leverages HTML for structuring the content, CSS for styling, and JavaScript to enable interactive functionalities. With this app, users can effortlessly navigate through various artists, explore their song collections, and immerse themselves in an interactive musical journey.
 
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript (using cards)
+- JavaScript (utilizing cards)
